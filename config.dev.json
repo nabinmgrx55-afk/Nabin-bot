@@ -16,16 +16,14 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [
-    "100087555698178"
-  ],
+  "adminBot": ["100087555698178"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": " HINATA BOT V3",
-  "prefix": ".",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "mongodb+srv://nabinmgrx55_db_user:MQQS9k9rAEOuoFUg@cluster0.vuqid1t.mongodb.net/?appName=Cluster0",
