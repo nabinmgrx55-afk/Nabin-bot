@@ -4,7 +4,7 @@ module.exports = {
  config: {
  name: "sage",
  aliases: ["sg"],
- version: "1.0",
+ version: "2.0.7",
  author: "NZR",
  countDown: 5,
  role: 0,
